@@ -8,16 +8,16 @@ Anaconda - Python 3.7
 ### Step 1:
 Commence the program
 ### Step 2:
- assign the value of second variables to a temporary variable
+Assign the value of second variables to a temporary variable
 ### Step 3: 
 Get the value from the user for the number of rotation
 ### Step 4: 
 Using the slicing concept rotate the list
 
 ### Step 5:
-print both the values 
+Print both the values 
 ### Step 6:
-end the program 
+End the program 
 ## Program:
 ```
 #Program to circulate N values.
@@ -34,4 +34,4 @@ def circulate():
 ![git log](mohan2.png)
 
 ## Result:
-thus the program is solved using python programming
+Thus the program is solved using python programming
