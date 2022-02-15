@@ -6,7 +6,7 @@ PC
 Anaconda - Python 3.7
 ## Algorithm: 
 ### Step 1:
-to write a program for circulate the values of n variables
+Commence the program
 ### Step 2:
  assign the value of second variables to a temporary variable
 ### Step 3: 
